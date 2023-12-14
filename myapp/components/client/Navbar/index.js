@@ -6,10 +6,10 @@ import AuthLinks from './AuthLinks'
 
 const Navbar = () => {
   return (
-    <header className='px-4 py-12'>
+    <header className='px-4 py-6'>
         <nav className='flex justify-between items-center max-w-screen-lg mx-auto'>
         <MenuItems />
-        <Logo />
+        <Logo size={120} />
         <AuthLinks />
         </nav>
     </header>
