@@ -29,7 +29,7 @@ const Card = () => {
                 src='https://images.pexels.com/photos/18509060/pexels-photo-18509060/free-photo-of-woman-in-elegant-white-jacket-posing-with-lantern-under-storm-clouds-in-field.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
                 width={24}
                 height={24}
-                className='rounded-full'
+                className='mx-auto object-cover rounded-full h-10 w-10'
                 alt="profile image"
                 />
                 <p>Name</p>

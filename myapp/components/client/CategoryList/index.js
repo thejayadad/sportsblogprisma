@@ -20,7 +20,7 @@ const CategoryList = () => {
   };
 
   return (
-    <div className="max-w-screen-xl mx-auto flex flex-col items-center mt-24">
+    <div className="max-w-screen-xl mx-auto flex flex-col items-center mt-12">
       <h3 className='text-xs text-secondary tracking-widest font-medium title-font mb-1 cursor-pointer'>CATEGORIES</h3>
       <h1 className='sm:text-3xl text-2xl font-medium title-font mb-4 text-orange cursor-pointer'>Check Out Our Categories Below</h1>
       <div className="w-16 h-1 rounded-full bg-secondary inline-flex"></div>
